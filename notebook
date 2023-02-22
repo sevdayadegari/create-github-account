@@ -2,3 +2,24 @@ so I will note all the points that I will learn in this journey to just be sure 
 I will start to learn python and if you are interested in that and wanna learn or you just need to know some important points, you can use the things I'll write here
 I'm gonna try to write all the things that I learned at that days session the same day but due to the fact that I'm going to school and I have homework maybe I write them some hours or days later
 but I promise myself to be arganized 
+I started downloading apps that I need.I am learning it with laptop so I'll explain things I do on laptop
+first of all you need to download python windows and vscode for windows and pass the pages that you dont need and install
+then go to downloads and go to vscode and then go to 4 cubes and search python and download it 
+then it will open in your vscode space and now you can start coding
+go to file on the bottom of the page and click on new file.then neme it lake this(any name.py) for example(dddd.py) then click on create new file and name your file on desktop and then click create file
+when you came back to the first page again click on file and go to save.your file is now saved.
+now you can srart writing codes.
+first of all you should understsnd what string,float and int are.I'll explain it with examples
+float is 0.1
+string is '1'
+and int is 1
+when you wanna know that wath type is you number write like this:d=1 or 0.1 or '1' then print(type(d)) and it will tell the type of number to you.
+bool means boolian and it means true or false or none
+each of the true,false words has a number.true=1 and false=0
+if you wanna write the operations that a calculator does then write like this:
+qw=any number
+print(type(qw))
+er=another number
+ty=qw*+-/er
+print(ty)
+and then you will get the answer you need
